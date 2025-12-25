@@ -1,0 +1,1445 @@
+BGGId,Name,AvgRating,NumUserRatings
+1,Die Macher,7.61428,5354
+3,Samurai,7.45601,15146
+5,Acquire,7.33861,18655
+11,Bohnanza,7.04068,39886
+12,Ra,7.47924,19685
+13,Catan,7.13746,107141
+18,RoboRally,7.07714,22840
+22,Magic Realm,7.21002,2019
+26,Age of Renaissance,7.09678,2144
+42,Tigris & Euphrates,7.69599,26068
+46,Medici,7.15626,7414
+47,Chinatown,7.35277,9033
+50,Lost Cities,7.18784,39233
+51,Ricochet Robots,7.01391,8262
+54,Tikal,7.33204,18453
+60,Vinci,7.07778,3965
+66,Löwenherz,7.02767,2459
+71,Civilization,7.49788,7197
+84,Rommel in the Desert,7.54678,1003
+88,Torres,7.10972,8988
+91,Paths of Glory,8.05888,4672
+93,El Grande,7.74966,24369
+94,Union Pacific,7.20662,4205
+118,Modern Art,7.43439,17950
+121,Dune,7.61516,5591
+150,PitchCar,7.26579,9976
+152,Mü & More,7.15323,1850
+157,Eurorails,7.08606,1771
+171,Chess,7.15112,30537
+172,For Sale,7.2261,25458
+188,Go,7.63525,15442
+215,Tichu,7.57817,13814
+220,High Society,7.09497,10021
+221,Ikusa,7.02371,4974
+224,History of the World,7.12299,4416
+230,Merchant of Venus,7.14422,2673
+234,Hannibal: Rome vs. Carthage,7.80012,4824
+237,Wooden Ships & Iron Men,7.05421,1998
+240,Britannia,7.20039,4094
+243,Advanced Squad Leader,8.00152,3577
+254,Empires in Arms,7.61853,1257
+286,Machiavelli,7.0996,1048
+354,Stick 'Em,7.04365,3105
+372,Schotten Totten,7.32098,8528
+421,1830: Railways & Robber Barons,7.86873,4954
+423,1856: Railroading in Upper Canada from 1856,7.51252,1270
+463,Magic: The Gathering,7.53543,34127
+475,Taj Mahal,7.27856,7243
+478,Citadels,7.07887,49972
+483,Diplomacy,7.04026,12414
+491,Web of Power,7.30567,3395
+503,Through the Desert,7.07686,13054
+511,Silverton,7.10227,1033
+521,Crokinole,7.93845,13284
+527,GIPF,7.09397,3016
+528,ZÈRTZ,7.27648,4005
+551,Battle Cry,7.14976,3464
+552,Bus,7.53447,2446
+554,La Città,7.0351,5135
+555,The Princes of Florence,7.52664,14752
+586,Up Front,7.87075,2179
+620,We the People,7.31048,1123
+631,Daytona 500,7.1353,1005
+699,HeroQuest,7.1501,11504
+701,A House Divided: War Between the States 1861-65,7.07239,1947
+712,Blood Bowl (Third Edition),7.54407,5361
+730,Breakout: Normandy,7.68664,1009
+760,Battle Line,7.4134,16110
+798,Ace of Aces: Handy Rotary Series,7.03526,1120
+822,Carcassonne,7.41883,107937
+833,For the People,7.76705,1560
+855,Java,7.00894,3373
+875,Roads & Boats,7.7313,3153
+904,Dream Factory,7.05277,5169
+939,Star Wars: The Queen's Gambit,7.5636,2126
+1032,B-17: Queen of the Skies,7.08285,1952
+1035,Squad Leader,7.5272,3223
+1041,San Marco,7.17156,4318
+1044,Gunslinger,7.13583,1016
+1261,Medina,7.01407,3038
+1301,Netrunner,7.44743,2353
+1345,Genoa,7.06179,5972
+1353,Time's Up!,7.28948,5254
+1442,Victory in the Pacific,7.21572,1234
+1499,World in Flames,7.60054,1377
+1513,The Republic of Rome,7.53694,3992
+1540,BattleTech,7.06585,3416
+1568,Space Crusade,7.01862,2795
+1608,Ambush!,7.4618,2227
+1621,Mutant Chronicles: Siege of the Citadel,7.03063,1043
+1634,Warhammer Quest,7.47513,2414
+1662,"Napoléon: The Waterloo Campaign, 1815",7.35009,1286
+1822,Wilderness War,7.71365,1730
+1887,Legend of the Five Rings,7.15333,1652
+1915,Middle-earth,7.29556,1905
+2065,Shogi,7.3693,1616
+2081,The Civil War 1861-1865,7.71975,1196
+2093,Mahjong,7.02962,6698
+2122,Vampire: The Eternal Struggle,7.22164,2305
+2163,Space Hulk,7.47639,3696
+2181,Bridge,7.45542,2940
+2251,Strat-O-Matic Baseball,7.791,1097
+2346,DVONN,7.44779,4599
+2393,Xiangqi,7.11228,1948
+2398,Cribbage,7.06471,8713
+2507,Liberté,7.12592,2638
+2511,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,7.70479,18404
+2651,Power Grid,7.84328,58328
+2653,Survive: Escape from Atlantis!,7.31225,21899
+2655,Hive,7.32391,31461
+2808,The Russian Campaign,7.30634,1432
+2955,Mexica,7.23364,5256
+2961,Confusion:  Espionage and Deception in the Cold War,7.07637,1346
+3072,Necromunda,7.31539,1840
+3076,Puerto Rico,7.96884,65187
+3201,Lord of the Rings: The Confrontation,7.1979,6643
+3284,Star Wars: Epic Duels,7.00674,3157
+3307,Wallenstein,7.46615,3533
+3353,World War II: Barbarossa to Berlin,7.31912,1219
+3565,Mordheim: City of the Damned,7.31306,1627
+3685,Hammer of the Scots,7.54925,3924
+3870,7 Ages,7.07108,1027
+4098,Age of Steam,7.79148,9392
+4099,Keythedral,7.04915,2981
+4390,Carcassonne: Hunters and Gatherers,7.12853,11673
+4741,Warmachine,7.29312,1033
+5072,Carrom,7.05238,1672
+5404,Amun-Re,7.3132,8700
+6205,Europe Engulfed: WWII European Theatre Block Game,7.48086,1278
+6249,Alhambra,7.02899,30026
+6472,A Game of Thrones,7.20063,10255
+6819,Skat,7.23688,1063
+6830,Zendo,7.25312,2836
+7480,Sword of Rome,7.33026,1582
+7717,Carcassonne: The Castle,7.09732,7738
+7854,YINSH,7.69662,7756
+8045,Princes of the Renaissance,7.34585,2208
+8125,Santiago,7.11085,4925
+8217,San Juan,7.24829,22669
+8481,Crusader Rex,7.15507,1167
+9209,Ticket to Ride,7.41494,75531
+9216,Goa,7.57675,11065
+9217,Saint Petersburg,7.29053,14976
+9440,Maharaja: The Game of Palace Building in India,7.11513,4923
+9609,War of the Ring,7.77497,10115
+9625,Struggle of Empires,7.51618,3946
+9674,Ingenious,7.11846,16006
+9823,Advanced Squad Leader: Starter Kit #1,7.83314,2450
+10547,Betrayal at House on the Hill,7.05841,39320
+10630,Memoir '44,7.55955,26711
+11170,Heroscape Master Set: Rise of the Valkyrie,7.43488,7906
+11825,Empire of the Sun,8.23804,1564
+12002,Jambo,7.00572,8044
+12333,Twilight Struggle,8.28096,42826
+12493,Twilight Imperium: Third Edition,7.82716,18587
+12495,Fire & Axe: A Viking Saga,7.00617,3065
+12891,Friedrich,7.55802,2600
+12902,Carcassonne: The City,7.20741,4275
+12942,No Thanks!,7.0552,21714
+12962,Reef Encounter,7.14211,5009
+13004,The Downfall of Pompeii,7.13964,7697
+13122,Antiquity,7.88184,3996
+13642,Louis XIV,7.06321,5379
+14105,Commands & Colors: Ancients,7.7747,8138
+14996,Ticket to Ride: Europe,7.5447,62650
+15062,Shadows over Camelot,7.11308,26003
+15126,Advanced Squad Leader: Starter Kit #2,7.95728,1185
+15363,Nexus Ops,7.21554,8580
+15364,Vegas Showdown,7.16859,6145
+15953,Wings of War: Burning Drachens,7.13526,1330
+15985,Blood Bowl: Living Rulebook,7.85206,3382
+15987,Arkham Horror,7.25155,37475
+16747,Tumblin-Dice,7.19302,4040
+17133,Railways of the World,7.6893,11299
+17226,Descent: Journeys in the Dark,7.29671,11437
+17392,Here I Stand,7.90917,3653
+17396,Manoeuvre,7.29571,2365
+17405,1846: The Race for the Midwest,7.94817,2339
+17419,CATAN 3D Collector's Edition,7.9096,1013
+18098,Napoleon's Triumph,7.9829,1727
+18602,Caylus,7.75353,27422
+18745,Sun Tzu,7.05765,2234
+18833,Lord of the Rings: The Confrontation,7.48034,5807
+19600,Antike,7.0836,4617
+19622,A Victory Lost: Crisis in Ukraine 1942-1943,7.68196,1051
+19777,Indonesia,7.8636,4164
+19857,Glory to Rome,7.48674,13245
+20437,Lords of Vegas,7.34356,6842
+20542,Advanced Squad Leader: Starter Kit #3,8.0334,1031
+20551,Shogun,7.53362,13099
+20963,Fury of Dracula (Second Edition),7.11904,9055
+21050,Combat Commander: Europe,7.94695,5554
+21241,Neuroshima Hex! 3.0,7.4051,13741
+21348,Ticket to Ride: Märklin,7.41401,8827
+21763,Mr. Jack,7.00105,16007
+21790,Thurn and Taxis,7.09964,18638
+21882,Blue Moon City,7.03864,7907
+22192,HeroQuest Advanced Quest,7.32094,1521
+22345,Yspahan,7.07826,7836
+22484,Ingenious: Travel Edition,7.0972,1948
+22545,Age of Empires III: The Age of Discovery,7.53456,9957
+22825,Tide of Iron,7.20499,3766
+22827,StarCraft: The Board Game,7.34414,7151
+22877,Fields of Fire,7.85895,1169
+23094,Planet Steam,7.12539,2783
+23540,Shikoku 1889,7.9788,1259
+23679,"Warriors of God: The Wars of England & France, 1135-1453",7.44032,1058
+24181,Imperial,7.60919,8380
+24480,The Pillars of the Earth,7.28339,16753
+24508,Taluva,7.15792,8051
+24703,Heroscape Marvel: The Conflict Begins,7.0147,1868
+24800,Conflict of Heroes: Awakening the Bear! – Russia 1941-42,7.50013,3004
+25021,Sekigahara: The Unification of Japan,8.02571,4789
+25292,Merchants & Marauders,7.40534,13104
+25417,BattleLore,7.36511,9137
+25554,Notre Dame,7.33444,12531
+25568,Metropolys,7.02552,4065
+25613,Through the Ages: A Story of Civilization,7.90414,18326
+26457,Successors (Third Edition),7.52594,1204
+26566,Homesteaders,7.21562,3708
+26990,Container,7.14934,4463
+26997,1989: Dawn of Freedom,7.79509,2101
+27162,Kingsburg,7.18605,18696
+27173,Vikings,7.24698,8050
+27708,1960: The Making of the President,7.62043,8740
+27746,Colosseum,7.2168,8582
+27833,Steam,7.58119,9745
+27976,Heroscape Master Set: Swarm of the Marro,7.62578,2294
+28023,Jamaica,7.05553,16993
+28143,Race for the Galaxy,7.75771,48635
+28181,Combat Commander: Pacific,8.11576,1545
+28720,Brass: Lancashire,8.18111,20770
+29603,D-Day at Omaha Beach,8.2851,1630
+30380,Cuba,7.13829,8006
+30381,Hamburgum,7.04933,3151
+30549,Pandemic,7.5913,108101
+30618,Eat Poop You Cat,7.44989,1622
+30645,Tammany Hall,7.26745,3600
+30658,Rise of Empires,7.03812,2036
+30869,Thebes,7.13433,9337
+30957,Tribune: Primus Inter Pares,7.22207,4485
+31260,Agricola,7.92801,65810
+31481,Galaxy Trucker,7.3911,30793
+31552,Wings of War: Deluxe Set,7.26915,1149
+31563,Middle-Earth Quest,7.38577,4011
+31594,In the Year of the Dragon,7.33259,11147
+31627,Ticket to Ride: Nordic Countries,7.63774,12251
+31730,Chicago Express,7.24234,7653
+31999,TZAAR,7.66146,3355
+33160,Endeavor,7.39505,9191
+34084,Witch's Brew,7.01264,3697
+34119,Tales of the Arabian Nights,7.19118,11929
+34219,Biblios,7.20388,15764
+34635,Stone Age,7.5567,46988
+35052,Axis & Allies Anniversary Edition,7.43404,2712
+35497,Fauna,7.03368,4175
+35570,Tinners' Trail,7.2503,3875
+35677,Le Havre,7.86737,27828
+36218,Dominion,7.61081,81131
+36235,The Duke,7.36485,3879
+36553,Time's Up! Title Recall!,7.70485,3236
+36932,Claustrophobia,7.5065,6765
+37046,Ghost Stories,7.30937,19943
+37111,Battlestar Galactica: The Board Game,7.74169,33852
+37836,"Julius Caesar: Caesar, Pompey, and the Roman Civil War",7.78168,1480
+37904,Formula D,7.01571,17762
+37907,Diamonds Club,7.04429,1736
+37919,Ascending Empires,7.1847,2012
+38159,Ultimate Werewolf: Ultimate Edition,7.00704,3863
+38453,Space Alert,7.42784,15111
+38713,Time's Up! Edición Amarilla,7.47938,1082
+38765,Ground Floor,7.0231,1687
+38823,Conflict of Heroes: Storms of Steel! – Kursk 1943,7.70355,1456
+38863,Hab & Gut,7.08064,1924
+38996,Washington's War,7.63474,2441
+39351,Automobile,7.33304,5489
+39463,Cosmic Encounter,7.53816,28643
+39683,At the Gates of Loyang,7.37668,10192
+39684,Merkator,7.04355,2595
+39856,Dixit,7.24274,53976
+39938,Carson City,7.23974,6873
+40354,Maria,7.98023,2951
+40529,Cosmic Encounter,7.20512,1015
+40628,Finca,7.06351,6966
+40692,Small World,7.24834,64216
+40765,Clash of Cultures,7.61017,5330
+40834,Dominion: Intrigue,7.71041,31070
+41002,Vasco da Gama,7.23455,4356
+41066,Virgin Queen,8.04883,1584
+41114,The Resistance,7.26851,37175
+42052,Vinhos,7.48008,4577
+42124,Dungeon Twister 2: Prison,7.28341,1191
+42215,Tobago,7.10977,11082
+42776,Gears of War: The Board Game,7.46546,4806
+42910,Peloponnes,7.11628,2790
+43015,Hansa Teutonica,7.68083,12527
+43111,Chaos in the Old World,7.67437,14625
+43528,World Without End,7.24971,4746
+43570,Friday,7.13899,17751
+45315,Dungeon Lords,7.38381,13136
+45358,Alhambra: Big Box,7.51371,4344
+45748,Carcassonne: Wheel of Fortune,7.02213,1146
+45986,Stronghold,7.14912,3396
+46213,Telestrations,7.3983,13917
+46396,Ubongo 3D,7.10233,1609
+47055,High Frontier,7.37534,1530
+47185,Warhammer: Invasion,7.22739,5772
+48726,Alien Frontiers,7.40006,14464
+50750,Belfort,7.23143,6074
+50768,Ninjato,7.18353,2637
+52461,Legacy: The Testament of Duke de Crecy,7.1567,4113
+53093,Heroes of Normandie,7.46806,1999
+54043,Jaipur,7.50348,40723
+54138,Imperial 2030,7.67614,5963
+54361,Heroscape Master Set:  Battle for the Underdark,7.49587,1030
+54625,Space Hulk (Third Edition),7.53295,6817
+54998,Cyclades,7.51995,18742
+55427,Mr. Jack in New York,7.21632,3097
+55600,Shipyard,7.35377,3815
+55670,Macao,7.41687,7089
+55690,Kingdom Death: Monster,8.61012,8012
+55829,Axis & Allies Pacific 1940,7.50449,1694
+57390,Catacombs,7.08188,2917
+57660,Time's Up! Edición Azul,7.33284,1217
+58281,Summoner Wars,7.24917,6312
+58421,Egizia,7.41315,5220
+58936,Wars of the Roses: Lancaster vs. York,7.35056,1461
+59294,Runewars,7.63415,7914
+59959,Letters from Whitechapel,7.38499,14326
+60153,War of the Ring Collector's Edition,8.66854,1083
+60435,Rallyman,7.20619,2444
+61692,Axis & Allies Europe 1940,7.55775,1953
+62219,Dominant Species,7.8393,18717
+62222,Commands & Colors: Napoleonics,8.00796,2807
+62227,"Labyrinth: The War on Terror, 2001 – ?",7.58976,4500
+63543,Horus Heresy,7.05699,1643
+63628,The Manhattan Project,7.35001,9321
+63888,Innovation,7.26474,15706
+65532,Defenders of the Realm,7.29953,5275
+65781,London,7.35003,6354
+65901,Age of Industry,7.37049,2893
+66188,Fresco,7.27603,12219
+66356,Dungeons & Dragons: Wrath of Ashardalon Board Game,7.12794,6067
+66362,Glen More,7.31374,8856
+66505,The Speicherstadt,7.02879,4856
+66510,The Red Dragon Inn 3,7.17843,1616
+66589,Navegador,7.54366,8359
+67492,Battles of Westeros,7.25872,2863
+68264,No Retreat! The Russian Front,7.78127,1546
+68425,Eminent Domain,7.0247,9833
+68448,7 Wonders,7.73733,89249
+69779,Polis: Fight for the Hegemony,7.57174,2205
+69789,Ascension: Deckbuilding Game,7.0282,12242
+70149,Ora et Labora,7.70347,10095
+70323,King of Tokyo,7.17131,60654
+70512,Luna,7.30976,4670
+70919,Takenoko,7.26044,37651
+71671,Yggdrasil,7.04402,3833
+72125,Eclipse,7.87806,26778
+72225,CO₂,7.14314,3770
+72321,The Networks,7.20584,5650
+72991,Asara,7.00899,2706
+73171,Earth Reborn,7.65033,3283
+73439,Troyes,7.75453,20090
+73664,Cabo,7.0842,1125
+73761,K2,7.04524,9532
+75165,De Vulgari Eloquentia,7.21404,1910
+75449,Firenze,7.25117,2899
+75476,Inca Empire,7.02242,1425
+77130,Sid Meier's Civilization: The Board Game,7.40433,14811
+77423,The Lord of the Rings: The Card Game,7.65542,21732
+79127,Star Trek: Fleet Captains,7.50418,3193
+79828,A Few Acres of Snow,7.39085,7591
+81640,Florenza,7.41224,1007
+82222,Xia: Legends of a Drift System,7.87716,8135
+82420,Summoner Wars: Guild Dwarves vs Cave Goblins,7.57203,2354
+82421,Summoner Wars: Phoenix Elves vs Tundra Orcs,7.52151,2586
+83330,Mansions of Madness,7.28998,13021
+83667,First Train to Nuremberg,7.0671,1066
+84419,Space Empires: 4X,7.70246,3247
+84876,The Castles of Burgundy,8.12711,50099
+85897,Thunderstone: Dragonspire,7.33814,2666
+87890,Prêt-à-Porter,7.38586,3852
+88827,Battle Cry: 150th Civil War Anniversary Edition,7.63836,1153
+89409,BattleCON: War of Indines,7.72024,1821
+89952,Carcassonne: 10 Year Special Edition,7.68229,1677
+90137,Blood Bowl: Team Manager – The Card Game,7.38053,10610
+90419,Airlines Europe,7.30044,6988
+91080,Andean Abyss,7.61444,1736
+91312,Discworld: Ankh-Morpork,7.23935,9560
+91872,Dungeons & Dragons: The Legend of Drizzt Board Game,7.23719,5811
+91873,Strasbourg,7.17417,2550
+91984,Québec,7.13265,1538
+92415,Skull,7.20582,16260
+92828,Dixit: Odyssey,7.44424,17841
+93260,Summoner Wars: Master Set,7.50628,10544
+94104,Omen: A Reign of War,7.34832,1550
+94246,1812: The Invasion of Canada,7.33837,2266
+95064,Ascension: Return of the Fallen,7.29775,3203
+95103,Fortune and Glory: The Cliffhanger Game,7.10502,3638
+95527,Madeira,7.60033,4084
+96007,The New Era,7.51149,1276
+96848,Mage Knight Board Game,8.09974,29271
+96913,Lancaster,7.40964,6869
+97207,Dungeon Petz,7.45113,13409
+97786,Small World Underground,7.26108,10106
+97842,Last Will,7.18723,9373
+98229,Pictomania,7.28231,3407
+98351,Core Worlds,7.17171,4053
+98527,Gloom of Kilforth: A Fantasy Quest Game,7.61038,1613
+98778,Hanabi,7.07383,41230
+98918,Bios: Genesis,7.1225,1373
+100901,Flash Point: Fire Rescue,7.19361,21850
+101721,Mage Wars Arena,7.62335,7526
+102652,Sentinels of the Multiverse,7.2019,15137
+102680,Trajan,7.75764,15475
+102794,Caverna: The Cave Farmers,8.00345,29588
+103343,A Game of Thrones: The Board Game (Second Edition),7.58275,30080
+103885,Star Wars: X-Wing Miniatures Game,7.67429,23648
+103886,Star Wars: The Card Game,7.18217,5451
+104006,Village,7.51728,21072
+104020,Vanuatu,7.21203,2611
+104162,Descent: Journeys in the Dark (Second Edition),7.66953,23520
+104363,Rex: Final Days of an Empire,7.08112,4296
+104581,Panic on Wall Street!,7.00243,1420
+104710,Wiz-War (Eighth Edition),7.05789,4753
+104955,Antike Duellum,7.07541,1699
+105134,Risk Legacy,7.4098,7799
+105551,Archipelago,7.33469,7611
+106217,Hawaii,7.13741,4295
+108687,Puerto Rico,8.43583,4730
+108745,Seasons,7.39696,21881
+108784,Ascension: Storm of Souls,7.29753,3448
+108906,Thunder Alley,7.31985,3248
+109125,Wallenstein (Second Edition),7.59987,1251
+109276,Kanban: Driver's Edition,7.82689,6142
+109291,Sails of Glory,7.53313,1032
+110277,Among the Stars,7.06731,6838
+110327,Lords of Waterdeep,7.74859,48355
+111124,Dark Moon,7.01114,3208
+111341,The Great Zimbabwe,7.79535,3395
+111799,Cuba Libre,7.69433,2722
+112092,Shadowrift,7.2217,1185
+113636,Edo,7.06917,1646
+113873,"The Hunters: German U-Boats at War, 1939-43",7.77397,1554
+113924,Zombicide,7.14337,17205
+113997,Tajemnicze Domostwo,7.15547,5008
+115746,War of the Ring: Second Edition,8.50988,15247
+116998,Thunderstone Advance: Towers of Ruin,7.35845,4632
+117915,Yedo,7.37516,3560
+117959,Las Vegas,7.13381,9771
+117985,Star Trek: Catan,7.00475,3367
+118048,Targi,7.64049,16676
+119432,Snowdonia,7.36226,4698
+119506,Freedom: The Underground Railroad,7.58036,4024
+119788,Hyperborea,7.20144,4526
+119890,Agricola: All Creatures Big and Small,7.36734,12703
+120523,Nothing Personal,7.06213,2291
+120677,Terra Mystica,8.12673,41541
+121288,Dixit: Journey,7.41143,4318
+121408,Trains,7.15583,7900
+121921,Robinson Crusoe: Adventures on the Cursed Island,7.82095,36792
+122294,Ascension: Immortal Heroes,7.34749,1560
+122515,Keyflower,7.78508,20010
+122842,Exodus: Proxima Centauri,7.16075,1641
+123123,BattleCON: Devastation of Indines,7.90252,3029
+123260,Suburbia,7.5092,22389
+123499,City of Iron,7.1896,1648
+123607,Puzzle Strike (Third Edition),7.21484,1770
+123955,Thunderbolt Apache Leader,8.05653,1182
+124052,Cinque Terre,7.04641,1346
+124361,Concordia,8.1209,31147
+124708,Mice and Mystics,7.28961,17529
+124742,Android: Netrunner,7.87621,27566
+125153,The Gallerist,8.05887,10984
+125618,Libertalia,7.15239,12901
+125678,DC Comics Deck-Building Game,7.04401,6593
+126042,Nations,7.6307,11446
+126100,Mythos Tales,7.42115,1984
+126163,Tzolk'in: The Mayan Calendar,7.89161,32977
+126792,Myrmes,7.2737,5197
+127023,Kemet,7.70287,17091
+127060,Bora Bora,7.56731,9372
+127398,Legends of Andor,7.18506,16113
+127518,A Distant Plain,7.86006,1544
+128271,Ginkgopolis,7.49647,5813
+128621,Viticulture,7.56608,11074
+128671,Spartacus: A Game of Blood and Treachery,7.4716,7573
+128721,Crisis,7.54825,1664
+128780,Pax Porfiriana,7.68413,3226
+128882,The Resistance: Avalon,7.56414,28600
+128898,New Amsterdam,7.06394,1279
+128996,1775: Rebellion,7.67462,3862
+129437,Legendary: A Marvel Deck Building Game,7.56408,20567
+129459,Duel of Ages II,7.42501,1189
+129622,Love Letter,7.23317,59080
+129736,Cockroach Poker Royal,7.04889,2769
+129948,The Palaces of Carrara,7.16593,4267
+130060,Ohne Furcht und Adel,7.04134,1189
+130176,Tales & Games: The Hare & the Tortoise,7.09161,3796
+130960,Triumph & Tragedy: European Balance of Power 1936-1945,8.15993,1876
+131014,Carcassonne: Winter Edition,7.49811,1737
+131111,Codex: Card-Time Strategy – Deluxe Set,8.04719,1011
+131287,Panamax,7.32214,3692
+131357,Coup,7.00062,38393
+131646,Merchant of Venus (Second Edition),7.15947,3675
+132018,Churchill,7.66984,2532
+132028,Conflict of Heroes: Awakening the Bear! – Operation Barbarossa 1941 (Second Edition),7.94528,1763
+132531,Roll for the Galaxy,7.65046,28038
+133038,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,7.19748,12246
+133473,Sushi Go!,7.04065,37606
+133848,Euphoria: Build a Better Dystopia,7.24099,9833
+134726,Smash Up: Awesome Level 9000,7.2481,6652
+135219,The Battle of Five Armies,7.8734,2373
+135382,Shadowrun: Crossfire,7.15378,3484
+135779,A Fake Artist Goes to New York,7.16809,5543
+136063,Forbidden Desert,7.12602,27008
+136888,Bruges,7.42596,10652
+137269,Spyrium,7.06652,5934
+137408,Amerigo,7.46141,5689
+137423,Pixel Tactics 2,7.06206,1119
+137649,Level 7 [Omega Protocol],7.46165,2026
+137988,Zombicide Season 2: Prison Outbreak,7.38367,4391
+138161,Firefly: The Game,7.39427,10895
+138233,Ascension: Rise of Vigil,7.16924,1663
+138431,Galaxy Defenders,7.45048,1657
+138649,DC Comics Dice Masters: Justice League,7.3355,1378
+139771,Star Trek: Attack Wing,7.50367,1840
+139898,Brew Crafters,7.43237,2896
+139976,Cthulhu Wars,7.90005,4865
+139991,Fresco: Big Box,7.71807,1525
+139993,Kingdom Builder: Big Box,7.60283,1087
+140068,Galaxy Trucker: Anniversary Edition,8.18279,2787
+140603,Francis Drake,7.41006,4697
+140620,Lewis & Clark: The Expedition,7.48482,13816
+140711,Carcassonne Big Box 4,7.78212,1168
+140934,Arboretum,7.36647,14894
+141423,Dead Men Tell No Tales,7.12471,3175
+141517,A Study in Emerald,7.18808,3187
+141572,Paperback,7.17544,9462
+142057,Carcassonne Big Box,7.56939,1006
+142121,Guildhall: Job Faire,7.13174,1060
+142271,Anomia: Party Edition,7.07923,1129
+142379,Escape Plan,7.58273,4014
+142852,DC Comics Deck-Building Game: Heroes Unite,7.39507,1775
+142961,Thunderstone Advance: Numenera,7.2868,1308
+143175,Kashgar: Merchants of the Silk Road,7.08441,1984
+143401,Yunnan,7.12299,1295
+143405,Sylvion,7.10812,2724
+143515,Coal Baron,7.28116,4448
+143519,Quantum,7.26837,6834
+143693,Glass Road,7.44869,9571
+144041,Patchistory,7.1219,2062
+144189,Fire in the Lake,8.0776,2400
+144344,Rococo,7.5904,7944
+144529,Theseus: The Dark Orbit,7.07193,1748
+144592,Bruxelles 1893,7.6393,4954
+144733,Russian Railroads,7.76242,15737
+144797,Argent: The Consortium,7.68307,3445
+145371,Three Kingdoms Redux,7.89564,1273
+145588,Citrus,7.10763,1356
+145633,Ascension: Apprentice Edition,7.10734,1041
+145639,Coconuts,7.04054,3928
+145645,Le Fantôme de l'Opéra,7.00816,1068
+145659,Scoville,7.1511,4967
+146021,Eldritch Horror,7.78712,31264
+146221,Forge War,7.23455,1541
+146278,Tash-Kalar: Arena of Legends,7.17381,6412
+146312,Ghost Fightin' Treasure Hunters,7.15437,3190
+146418,Warhammer: Diskwars,7.08525,1899
+146439,BattleLore: Second Edition,7.71742,5873
+146508,T.I.M.E Stories,7.50731,24927
+146652,Legendary Encounters: An Alien Deck Building Game,7.77802,11885
+146791,Shadows of Brimstone: City of the Ancients,7.96848,3565
+146816,Sanssouci,7.12729,1452
+146886,La Granja,7.65763,9379
+146910,Wildcatters,7.61724,1174
+147020,Star Realms,7.57958,38249
+147154,Blue Moon Legends,7.28963,1926
+147253,The Ancient World,7.01021,2060
+147303,Carcassonne: South Seas,7.07368,3169
+147949,One Night Ultimate Werewolf,7.12041,22919
+148228,Splendor,7.43975,63986
+148319,Tragedy Looper,7.20371,4129
+148575,Marvel Dice Masters: Avengers vs. X-Men,7.14698,5579
+148601,1944: Race to the Rhine,7.23759,1145
+148729,Maquis,7.38049,1680
+148943,Coup: Rebellion G54,7.01589,2531
+148949,Istanbul,7.57049,26867
+149776,Fireteam Zero,7.52712,1387
+149951,Warfighter: The Tactical Special Forces Card Game,7.70919,1187
+150145,Skull King,7.43805,5111
+150293,The Ravens of Thri Sahashri,7.17854,1199
+150376,Dead of Winter: A Crossroads Game,7.54665,41132
+150658,Pandemic: The Cure,7.29033,9786
+150997,Shadows of Brimstone: Swamps of Death,8.04943,2267
+150999,Valley of the Kings,7.04015,4407
+151004,Smash Up: Science Fiction Double Feature,7.28551,3790
+151007,Pathfinder Adventure Card Game: Skull & Shackles – Base Set,7.30364,2488
+151022,Baseball Highlights: 2045,7.53594,3930
+151347,Millennium Blades,7.7204,4232
+151771,La Cosa Nostra,7.69237,1205
+152242,Ultimate Werewolf: Deluxe Edition,7.09378,1723
+152470,Fief: France 1429,7.45612,2058
+153016,Telestrations: 12 Player Party Pack,7.7524,2357
+153938,Camel Up,7.04125,23867
+154086,Gold West,7.35539,2629
+154203,Imperial Settlers,7.37928,22109
+154458,Akrotiri,7.22935,3908
+154597,Hive Pocket,7.69946,9689
+154809,Nippon,7.68168,4420
+154825,Arkwright,7.84001,2127
+155068,Arcadia Quest,7.68101,9535
+155255,Pax Pamir,7.50889,1095
+155426,Castles of Mad King Ludwig,7.54596,23017
+155463,DC Comics Deck-Building Game: Forever Evil,7.25626,1179
+155624,Specter Ops,7.22481,5866
+155703,Evolution,7.11335,14446
+155731,Tokaido Collector's Edition,7.70065,1286
+155821,Inis,7.81387,14363
+155873,Power Grid Deluxe: Europe/North America,7.99965,3945
+155987,Abyss,7.33328,11473
+156009,Port Royal,7.13468,14189
+156091,Sons of Anarchy: Men of Mayhem,7.28287,2682
+156129,Deception: Murder in Hong Kong,7.49217,17626
+156336,Onirim (Second Edition),7.07376,8759
+156496,March of the Ants,7.18519,1224
+156546,Monikers,7.80156,4000
+156566,Lords of Xidit,7.11898,5547
+156689,Legendary: A Marvel Deck Building Game – Villains,7.58636,2593
+156714,Doomtown: Reloaded,7.14349,2196
+156776,"Warhammer 40,000: Conquest",7.36592,2962
+156858,Black Orchestra,7.51831,4878
+156943,Saint Petersburg (Second Edition),7.49008,3001
+157001,Trains: Rising Sun,7.45612,1773
+157026,Ascension: Realms Unraveled,7.52683,1055
+157354,Five Tribes,7.77761,34247
+157403,Black Fleet,7.0155,5101
+157413,New Bedford,7.09666,1809
+157820,Escape: The Curse of the Temple – Big Box,7.57857,1518
+157917,The Lord of the Ice Garden,7.65384,1161
+157958,DungeonQuest Revised Edition,7.09132,1396
+157969,Sheriff of Nottingham,7.12267,31234
+158275,Marvel Dice Masters: Uncanny X-Men,7.19258,3730
+158435,Dogs of War,7.52314,2717
+158600,Hanamikoji,7.53375,12753
+158889,Summoner Wars: Alliances Master Set,8.09808,1695
+158899,Colt Express,7.11243,26589
+159473,Quartermaster General,7.34744,2518
+159503,The Captain Is Dead,7.12879,2641
+159504,Folklore: The Affliction,7.78349,1700
+159508,AquaSphere,7.27316,6746
+159675,Fields of Arle,8.08523,8945
+160010,Conan,7.68846,4127
+160018,Smash Up: Monster Smash,7.29895,3004
+160069,Ticket to Ride: 10th Anniversary,8.26971,5174
+160081,Dungeon Saga: Dwarf King's Quest,7.23863,1050
+160477,Onitama,7.38865,16944
+160495,ZhanGuo,7.57869,2976
+160610,Thunderbirds,7.55619,1780
+160902,Dungeons & Dragons Dice Masters: Battle for Faerûn,7.2487,1466
+161533,Lisboa,8.20247,7768
+161614,Stockpile,7.52519,5949
+161866,Zombicide Season 3: Rue Morgue,7.54824,2537
+161882,Irish Gauge,7.33808,2300
+161936,Pandemic Legacy: Season 1,8.59678,44614
+161970,Alchemists,7.67084,19424
+162007,Steampunk Rally,7.20684,6087
+162082,Deus,7.31325,7734
+162286,Super Motherload,7.37858,3532
+162886,Spirit Island,8.3583,31411
+163068,Trickerion: Legends of Illusion,7.93155,7609
+163154,Falling Sky: The Gallic Revolt Against Caesar,7.89101,1499
+163166,One Night Ultimate Werewolf: Daybreak,7.35576,5163
+163370,Carcassonne: Gold Rush,7.16322,1466
+163412,Patchwork,7.64333,51443
+163413,Murano,7.20297,2031
+163474,V-Sabotage,7.76526,1353
+163602,XCOM: The Board Game,7.04053,8195
+163642,Chimera Station,7.30991,2325
+163745,Star Wars: Armada,7.84452,4828
+163805,Transatlantic,7.10153,1760
+163839,Feudum,7.666,3037
+163967,Tiny Epic Galaxies,7.36323,16949
+163968,Elysium,7.22153,8865
+164127,Carcassonne Big Box 5,7.91916,1889
+164153,Star Wars: Imperial Assault,8.00025,21644
+164265,Witness,7.28263,2478
+164338,The Golden Ages,7.27714,2201
+164928,Orléans,8.07585,24322
+164949,"Time of Crisis: The Roman Empire in Turmoil, 235-284 AD",7.65274,1818
+165401,Wir sind das Volk!,7.83532,2143
+165722,KLASK,7.63826,6677
+165838,Space Hulk (Fourth Edition),7.96534,1638
+165872,Liberty or Death: The American Insurrection,7.81889,1327
+165948,Mangrovia,7.15488,1571
+165986,Royals,7.16479,2428
+166226,The Staufer Dynasty,7.15545,2178
+166571,Tramways,7.42331,1375
+166669,San Juan (Second Edition),7.49381,6298
+166857,Antike II,7.48731,1360
+167270,Medina (Second Edition),7.21736,1836
+167355,Nemesis,8.38958,17109
+167400,Ashes Reborn: Rise of the Phoenixborn,7.29556,5394
+167513,Barony,7.08523,2448
+167791,Terraforming Mars,8.41879,73093
+168435,Between Two Cities,7.016,9946
+168584,Love Letter: Batman,7.27134,5200
+168917,Smash Up: Pretty Pretty Smash Up,7.26489,3322
+168998,Marvel Dice Masters: Age of Ultron,7.25369,1336
+169255,A Game of Thrones: The Card Game (Second Edition),7.55302,4427
+169318,City of Spies: Estoril 1942,7.03788,1484
+169416,Pathfinder Adventure Card Game: Wrath of the Righteous – Base Set,7.47087,1073
+169426,Roll Player,7.51086,15369
+169427,Middara: Unintentional Malum – Act 1,8.84724,1544
+169611,Love Letter: The Hobbit – The Battle of the Five Armies,7.11025,1707
+169786,Scythe,8.21978,63779
+169794,Haspelknecht,7.25245,1782
+170042,Raiders of the North Sea,7.77088,18031
+170216,Blood Rage,7.99408,37118
+170416,Vast: The Crystal Caverns,7.1561,6142
+170561,Valeria: Card Kingdoms,7.45017,4476
+170604,Renegade,7.78056,1109
+170624,Crusaders: Thy Will Be Done,7.54361,2992
+170771,Sword & Sorcery,7.99833,4050
+171131,Captain Sonar,7.55487,17228
+171273,FUSE,7.03886,7541
+171499,Cacao,7.09691,9079
+171623,The Voyages of Marco Polo,7.84242,21664
+171662,Neanderthal,7.3281,1533
+171668,The Grizzled,7.1786,12955
+171669,Discoveries: The Journals of Lewis & Clark,7.06514,4583
+171726,Project: ELITE,7.63438,1047
+171879,Kraftwagen,7.26058,2303
+171905,Orléans: Deluxe Edition,8.38276,1525
+171908,El Grande Big Box,8.2402,2745
+172047,The Others,7.36895,3541
+172081,Burgle Bros.,7.51402,9070
+172220,Dungeons & Dragons: Temple of Elemental Evil Board Game,7.40894,1799
+172287,Champions of Midgard,7.76217,14474
+172308,Broom Service,7.18252,8676
+172385,Porta Nigra,7.18662,2085
+172386,Mombasa,7.87597,11573
+172503,Mage Wars Academy,7.19375,1196
+172818,Above and Below,7.40429,13768
+172931,Outfoxed!,7.18751,2849
+172996,The King Is Dead,7.13983,1613
+173064,Leaving Earth,7.78072,2535
+173101,Council of 4,7.18179,2560
+173156,Timeline Challenge,7.05613,1372
+173346,7 Wonders Duel,8.1073,68294
+173442,Empires: Age of Discovery,7.8749,2004
+173761,Telestrations After Dark,7.08216,1206
+174226,Arctic Scavengers: Base Game+HQ+Recon,7.27123,2539
+174430,Gloomhaven,8.74997,47151
+174570,Legendary Encounters: A Predator Deck Building Game,7.4553,2511
+174785,Mare Nostrum: Empires,7.55858,3646
+174837,Sol: Last Days of a Star,7.589,1013
+175095,Dawn of the Zeds (Third Edition),8.19139,1920
+175155,Forbidden Stars,7.96845,7958
+175199,Mottainai,7.02919,3695
+175223,Valley of the Kings: Afterlife,7.26465,1827
+175239,Machi Koro: Deluxe Edition,7.05723,2273
+175307,Love Letter: Adventure Time,7.23117,1671
+175549,Salem 1692,7.04296,1689
+175640,Vinhos Deluxe Edition,8.17908,4888
+175914,Food Chain Magnate,8.1166,15197
+176165,Dale of Merchants,7.2076,4347
+176189,Zombicide: Black Plague,7.67154,13591
+176371,Explorers of the North Sea,7.33381,2359
+176396,Quadropolis,7.27047,11641
+176494,Isle of Skye: From Chieftain to King,7.42063,21790
+176544,Automania,7.3183,2258
+176734,The Manhattan Project: Energy Empire,7.77857,5134
+176920,Mission: Red Planet (Second Edition),7.44101,9495
+177352,Carson City: Big Box,8.03986,1681
+177478,IKI,7.72264,1394
+177590,13 Days: The Cuban Missile Crisis,7.27871,4002
+177639,Raptor,7.30664,8519
+177678,Signorie,7.41845,2803
+177736,A Feast for Odin,8.20167,19740
+177802,Smash Up: It's Your Fault!,7.54117,1768
+178336,World's Fair 1893,7.19659,3441
+178900,Codenames,7.60087,73522
+179172,Unfair,7.34287,3912
+179275,One Deck Dungeon,7.03051,8929
+179460,Stronghold: 2nd edition,7.48707,1526
+179803,Arcadia Quest: Inferno,7.97258,2080
+180040,Villages of Valeria,7.03907,2868
+180263,The 7th Continent,8.05624,18615
+180511,Shakespeare,7.43426,3984
+180592,Steam Time,7.11558,1626
+180593,The Bloody Inn,7.00491,6909
+180680,Automobiles,7.2722,2976
+180771,Teenage Mutant Ninja Turtles: Shadows of the Past,7.46947,1223
+180899,Ponzi Scheme,7.18442,2478
+180974,Potion Explosion,7.14524,15087
+181279,Fury of Dracula (Third/Fourth Edition),7.49465,12351
+181304,Mysterium,7.28537,34812
+181521,Warhammer Quest: The Adventure Card Game,7.35034,5082
+181524,Masmorra: Dungeons of Arcadia,7.05439,2555
+181530,Runebound (Third Edition),7.48963,5323
+181687,The Pursuit of Happiness,7.21131,4462
+181796,The Prodigals Club,7.30144,2256
+181819,Sorcerer,7.76628,1283
+182028,Through the Ages: A New Story of Civilization,8.38861,25341
+182134,Evolution: Climate,7.59429,6606
+182340,Star Trek: Frontiers,7.87848,1624
+182631,Star Realms: Colony Wars,7.8487,6635
+182694,Watson & Holmes,7.33858,2379
+182874,Grand Austria Hotel,7.87875,14539
+183006,Qwinto,7.03157,2790
+183251,Karuba,7.19964,9365
+183394,Viticulture Essential Edition,8.06003,34119
+183562,Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set,7.8005,2917
+183571,Deep Space D-6,7.25108,2884
+183840,Oh My Goods!,7.00306,10335
+183880,Risk: Star Wars Edition,7.01856,3861
+184151,Legend of the Five Rings: The Card Game,7.44535,2376
+184267,On Mars,8.25962,7690
+184921,Bunny Kingdom,7.46137,8844
+185343,Anachrony,8.11379,13157
+185589,Islebound,7.18147,3256
+186659,Tiny Epic Galaxies: Deluxe Edition,7.72811,1281
+186751,Mythic Battles: Pantheon,8.43352,2744
+187273,The Dresden Files Cooperative Card Game,7.06002,1635
+187377,Vikings Gone Wild,7.18005,3279
+187617,Nemo's War (Second Edition),7.92977,3948
+187645,Star Wars: Rebellion,8.42432,25270
+187653,Covert,7.12614,1457
+187700,GKR: Heavy Hitters,7.67992,1306
+188547,Maximum Apocalypse,7.59617,1686
+188834,Secret Hitler,7.55019,20454
+188866,Awkward Guests,7.69826,4753
+188920,This War of Mine: The Board Game,7.81487,9726
+189660,XenoShyft: Dreadmire,7.26854,1162
+189932,Tyrants of the Underdark,7.90965,5768
+190082,Whitehall Mystery,7.58324,2775
+191051,Outlive,7.3526,3858
+191189,Aeon's End,8.01761,13526
+191231,Via Nebula,7.0501,4059
+191300,Archaeology: The New Expedition,7.14895,3139
+191597,Dale of Merchants 2,7.33634,1868
+191862,Imhotep,7.18261,12909
+191876,Ulm,7.05,2938
+191963,Thunder & Lightning,7.21478,1120
+191972,Dynasties: Heirate & Herrsche,7.21755,1079
+191977,The Castles of Burgundy: The Card Game,7.00733,6121
+192074,Odin's Ravens (Second Edition),7.05092,3025
+192135,Too Many Bones,8.43605,7655
+192153,Pandemic: Reign of Cthulhu,7.40668,8560
+192291,Sushi Go Party!,7.4473,25396
+192457,Cry Havoc,7.1786,6178
+192458,51st State: Master Set,7.64191,5614
+192802,Days of Ire: Budapest 1956,7.36685,1054
+192836,The Colonists,7.61598,3682
+192945,Coal Baron: The Great Card Game,7.10178,1489
+193037,Dead of Winter: The Long Night,7.62396,8475
+193042,Junk Art,7.40765,5970
+193214,Meeple Circus,7.09512,4616
+193558,The Oracle of Delphi,7.29556,4469
+193737,Star Trek Panic,7.01558,1709
+193738,Great Western Trail,8.29585,32599
+193927,Vanuatu (Second Edition),7.54147,1017
+193949,Star Trek: Ascendancy,7.8102,2818
+194517,Super Fantasy Brawl,7.79882,1149
+194594,Dice Forge,7.27235,16720
+194607,Mystic Vale,7.28742,9771
+194655,Santorini,7.44436,31088
+194879,Not Alone,7.00908,8760
+195137,Catacombs (Third Edition),7.55754,2452
+195162,Plague Inc.: The Board Game,7.4656,2766
+195314,Herbaceous,7.0908,4084
+195421,Near and Far,7.7743,8244
+195503,City of Iron: Second Edition,7.25279,1112
+195539,The Godfather: Corleone's Empire,7.54646,6283
+195560,Wasteland Express Delivery Service,7.40753,2970
+195571,Legendary Encounters: A Firefly Deck Building Game,7.14344,1801
+196202,Rum & Bones: Second Tide,7.67857,1363
+196326,Love Letter Premium,7.46227,4775
+196340,Yokohama,7.84597,9746
+196526,Coffee Roaster,7.49806,2097
+197070,Massive Darkness,7.21028,4245
+197097,Four Against Darkness,7.52799,1176
+197376,Charterstone,7.32391,12642
+197405,Tak,7.62701,2271
+197443,Fugitive,7.21457,4351
+197572,Warhammer Quest: Silver Tower,7.48781,1149
+198138,Enchanters,7.13959,1116
+198190,Kepler-3042,7.33833,1101
+198454,When I Dream,7.04834,4465
+198487,Smash Up: Cease and Desist,7.48337,1210
+198740,Lovecraft Letter,7.23243,3356
+198773,Codenames: Pictures,7.24046,18446
+198830,"Heroes of Land, Air & Sea",7.67015,2447
+198928,Pandemic: Iberia,7.9113,8823
+198953,Pax Renaissance,8.03208,2024
+198994,Hero Realms,7.57847,13690
+199042,Harry Potter: Hogwarts Battle,7.43411,13787
+199383,Calimala,7.19647,1857
+199478,Flamme Rouge,7.53624,13686
+199561,Sagrada,7.51672,29813
+199792,Everdell,8.09234,27925
+199793,Dokmus,7.05714,1071
+199966,Kingsburg (Second Edition),7.46233,2217
+200057,Pioneer Days,7.29525,1734
+200077,Mint Works,7.0056,5460
+200147,Kanagawa,7.08344,7596
+200454,Planetarium,7.0213,1148
+200680,Agricola (Revised Edition),8.00629,11432
+200853,Habitats,7.34433,1295
+200890,Pixie Queen,7.17214,1003
+200954,Fields of Green,7.16387,3401
+201808,Clank!: A Deck-Building Adventure,7.81612,31517
+201825,Ex Libris,7.18849,5500
+201921,Tiny Epic Quest,7.02823,6483
+202077,Deep Madness,7.91476,1624
+202408,Adrenaline,7.04295,5862
+202426,Sidereal Confluence,7.82571,2907
+202583,Rise of Tribes,7.22498,2520
+202670,Ticket to Ride: Rails & Sails,7.42773,3331
+202977,Cytosis: A Cell Biology Board Game,7.06402,1702
+203416,Exit: The Game – The Pharaoh's Tomb,7.21511,5746
+203417,Exit: The Game – The Secret Lab,7.11149,6079
+203420,Exit: The Game – The Abandoned Cabin,7.50152,9614
+203427,Fabled Fruit,7.01842,5348
+203993,Lorenzo il Magnifico,7.88129,10595
+204184,Risk: Europe,7.44166,1231
+204305,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,7.71481,4638
+204472,Sub Terra,7.37263,3445
+204505,Museum,7.23688,2036
+204516,878 Vikings: Invasions of England,7.53767,2795
+204583,Kingdomino,7.35135,36379
+204836,Escape Room: The Game,7.01847,3549
+205046,Capital Lux,7.03909,1927
+205059,Mansions of Madness: Second Edition,8.02713,28155
+205317,DOOM: The Board Game,7.46077,1728
+205359,Star Wars: Destiny,7.50199,4827
+205398,Citadels,7.30356,9076
+205418,Agricola: Family Edition,7.12153,2318
+205507,Key to the City: London,7.01097,1180
+205597,Jump Drive,7.03084,3532
+205637,Arkham Horror: The Card Game,8.16597,32494
+205716,New Angeles,7.11616,2708
+205896,Rising Sun,7.842,17338
+206051,Insider,7.09867,3051
+206084,Nautilion,7.25169,1290
+206327,The King's Guild,7.16519,1177
+206480,Imperial Struggle,8.33017,1466
+206718,Ethnos,7.47729,10771
+206803,Warsaw: City of Ruins,7.33966,1773
+206915,Tempel des Schreckens,7.10479,1656
+206931,Encore!,7.00953,3749
+206940,Carcassonne: Amazonas,7.07557,1728
+206941,First Class: All Aboard the Orient Express!,7.45292,5123
+207207,Glüx,7.11126,1309
+207243,The City of Kings,7.69021,2210
+207691,Railroad Revolution,7.36332,2571
+207830,5-Minute Dungeon,7.00142,7458
+208024,The Reckoners,7.74339,1599
+209001,Monster Lands,7.27026,1189
+209010,Mechs vs. Minions,8.02707,14997
+209418,Dominion (Second Edition),7.89851,5449
+209685,Century: Spice Road,7.35479,20189
+209778,Magic Maze,7.02121,17078
+210296,DinoGenics,7.69427,1873
+211716,John Company,7.46147,1138
+212281,Village Attacks,7.51137,1039
+212402,The Grimm Forest,7.12606,4865
+212445,Blood Bowl (2016 Edition),8.05076,2367
+212516,Keyper,7.32817,1801
+213266,Circle the Wagons,7.17082,2451
+213460,Unlock!: Escape Adventures,7.41256,5274
+213893,Yamataï,7.21884,5803
+213984,Notre Dame: 10th Anniversary,7.58301,1843
+214000,In the Year of the Dragon: 10th Anniversary,7.60183,1529
+214029,SpaceCorp: 2025-2300AD,7.68391,1923
+214396,Campy Creatures,7.08832,1805
+214880,City of the Big Shoulders,7.85845,2078
+214887,CO₂: Second Chance,7.61698,2526
+215311,Downforce,7.34177,9452
+215312,Stop Thief!,7.01873,1505
+215341,Thunderstone Quest,7.86815,3478
+216070,Hunt for the Ring,7.15694,1279
+216091,Unlock!: Escape Adventures – The Formula,7.04135,2642
+216092,Unlock!: Escape Adventures – Squeek & Sausage,7.1839,2770
+216132,Clans of Caledonia,7.98854,16575
+216201,Robo Rally,7.05104,2537
+216428,Seikatsu,7.15164,1347
+216459,The Lost Expedition,7.07457,5524
+216597,Flatline,7.1613,1306
+216600,Fantastic Factories,7.49649,2794
+216632,Tournament at Camelot,7.21534,1281
+216734,Dice Throne: Season One,7.60102,4282
+217372,The Quest for El Dorado,7.62258,15062
+217398,Path of Light and Shadow,7.45598,1151
+217780,Gentes,7.46381,2699
+217861,Paper Tales,7.0639,3862
+218074,Detective: City of Angels,7.96953,1480
+218121,Dice Hospital,7.18575,4186
+218208,Ticket to Ride: First Journey (Europe),7.03739,1132
+218293,Rise to Nobility,7.01271,1804
+218333,Rhino Hero: Super Battle,7.27567,3962
+218417,Aeon's End: War Eternal,8.38619,3973
+218421,Street Masters,8.16434,1132
+218479,Cerebria: The Inside World,7.81114,1939
+218509,Empires of the Void II,7.52176,2048
+218603,Photosynthesis,7.09563,18591
+218804,Imaginarium,7.19031,1532
+218920,Valletta,7.00389,1390
+219100,UBOOT: The Board Game,7.70754,1716
+219215,Werewords,7.15123,3901
+219513,Bärenpark,7.35316,13718
+220308,Gaia Project,8.47909,18791
+220517,The Shipwreck Arcana,7.48956,2473
+220520,Caverna: Cave vs Cave,7.16875,5557
+220632,Monster Slaughter,7.32781,1332
+220792,The Expanse Board Game,7.20174,1442
+220877,Rajas of the Ganges,7.72185,10248
+221107,Pandemic Legacy: Season 2,8.11266,13473
+221194,Dinosaur Island,7.68763,12931
+221318,Whistle Stop,7.12781,3102
+221769,Bios: Megafauna (Second Edition),7.69199,1011
+221965,The Fox in the Forest,7.21076,10654
+222509,Lords of Hellas,7.79546,6084
+222514,Batman: Gotham City Chronicles,7.71762,2273
+222542,Otys,7.0066,2058
+223040,Fantasy Realms,7.53945,7333
+223215,Flip Ships,7.04962,1790
+223321,Detective: A Modern Crime Board Game,7.82806,8182
+223750,Hardback,7.24458,2683
+223770,Startups,7.13622,2053
+223855,Sentient,7.2415,2204
+223953,Kitchen Rush,7.3373,3140
+224037,Codenames: Duet,7.53917,16359
+224517,Brass: Birmingham,8.66562,24849
+224597,Warhammer Underworlds: Shadespire,7.72169,2654
+224710,Zombicide: Green Horde,7.75917,3265
+224783,Vindication,7.83565,5192
+224821,One Deck Dungeon: Forest of Shadows,7.19097,2320
+225167,Human Punishment: Social Deduction 2.0,7.80878,1437
+225244,Ticket to Ride: Germany,7.62798,1236
+225694,Decrypto,7.79035,14103
+226320,My Little Scythe,7.33912,4370
+226501,Dragonfire,7.23807,2224
+226518,Exit: The Game – The Sunken Treasure,7.09786,2682
+226520,Exit: The Game – The Sinister Mansion,7.40963,1909
+226522,Exit: The Game – Dead Man on the Orient Express,7.67165,3636
+226634,The Thing: Infection at Outpost 31,7.28268,1231
+227224,The Red Cathedral,7.90754,3398
+227456,Escape the Dark Castle,7.54167,2552
+227460,Hannibal & Hamilcar,8.35723,1313
+227515,Riverboat,7.47895,2117
+227789,Heaven & Ale,7.56941,7046
+228328,Rurik: Dawn of Kiev,7.83138,1510
+228341,Pulsar 2849,7.71558,6815
+228411,Iron Curtain,7.16163,1046
+228504,Cat Lady,7.07594,4156
+228660,Betrayal at Baldur's Gate,7.13229,3071
+228855,Set a Watch,7.31494,2116
+228867,Unlock!: Mystery Adventures,7.40259,2850
+229218,A Game of Thrones: Catan – Brotherhood of the Watch,7.16252,1222
+229220,Santa Maria,7.52254,5700
+229265,Wendake,7.53087,1885
+229491,Edge of Darkness,7.55002,1469
+229853,Teotihuacan: City of Gods,7.92967,14969
+229892,Container: 10th Anniversary Jumbo Edition!,7.69777,1660
+230085,Agra,7.34732,2118
+230244,Black Angel,7.36182,3583
+230253,Star Realms: Frontiers,7.99571,3214
+230303,Unlock!: Mystery Adventures – The House on the Hill,7.04452,1902
+230305,Unlock!: Mystery Adventures – The Tonipal's Treasure,7.04262,1727
+230791,Time of Legends: Joan of Arc,8.14369,1062
+230802,Azul,7.80254,61527
+230914,Carcassonne Big Box 6,8.15176,2712
+230933,Merlin,7.12408,3116
+231218,Black Sonata,7.52908,1868
+231484,Carnival of Monsters,7.28784,1783
+231567,Now Boarding,7.09317,1041
+231581,AuZtralia,7.38854,3573
+231733,Obsession,8.29464,2735
+232043,Queendomino,7.23935,8877
+232219,Dragon Castle,7.17112,6335
+232361,After The Virus,7.21379,1275
+232405,Western Legends,7.63512,7865
+232414,Oceans,7.62561,3972
+232595,Skulk Hollow,7.44614,1256
+232832,Century: Golem Edition,7.69226,8225
+233078,Twilight Imperium: Fourth Edition,8.67916,15736
+233247,Civilization: A New Dawn,7.28652,4963
+233262,Tidal Blades: Heroes of the Reef,7.74042,1592
+233312,Stuffed Fables,7.53393,5295
+233371,Clank! In! Space!: A Deck-Building Adventure,7.84553,10583
+233398,Endeavor: Age of Sail,7.98146,7112
+233571,Star Wars: Legion,8.02244,1324
+233867,Welcome To...,7.59964,21071
+233961,Claim,7.00225,3035
+234277,Nusfjord,7.65381,4840
+234477,Battle for Rokugan,7.47168,2738
+234487,Altiplano,7.52059,7614
+234669,Legacy of Dragonholt,7.26299,2569
+234671,Pandemic: Rising Tide,7.60616,2310
+235014,Sorcerer City,7.54932,1116
+235488,Istanbul: The Dice Game,7.18215,3642
+235802,Too Many Bones: Undertow,8.74965,2045
+235817,Space Explorers,7.04773,1187
+236191,London (Second Edition),7.59053,5211
+236217,Timebomb,7.17788,1179
+236457,Architects of the West Kingdom,7.80905,20238
+237182,Root,8.09812,30738
+237211,Valhalla,7.31097,1214
+238393,Monolith Arena,7.6005,1025
+238546,The Rise of Queensdale,7.51506,1037
+238638,Castell,7.4967,1584
+238656,Tiny Epic Defenders (Second Edition),7.18687,1299
+238992,Call to Adventure,7.18993,4149
+239188,Chronicles of Crime,7.73738,16733
+239307,Unlock!: Secret Adventures,7.63987,2022
+239464,Palm Island,7.1994,4185
+239472,Abomination: The Heir of Frankenstein,7.50755,1942
+239942,Black Rose Wars,8.08974,2099
+240196,Betrayal Legacy,7.76612,3710
+240567,Chocolate Factory,7.18316,1321
+240855,Lockup: A Roll Player Tale,7.36505,1406
+241266,Little Town,7.2747,2510
+241451,Aeon's End: Legacy,8.1665,3410
+241477,Karak,7.40733,1067
+241724,Villagers,7.27502,5071
+242302,Space Base,7.59249,10830
+242529,Medium,7.00093,1275
+242574,Century: Eastern Wonders,7.19589,6119
+242639,Treasure Island,7.29821,4521
+242684,Reavers of Midgard,7.47511,2090
+242804,Lowlands,7.43926,2351
+243430,Dealt!,7.09078,1159
+243759,Hellboy: The Board Game,7.9265,1486
+244049,Forum Trajanum,7.28878,2310
+244114,Yellow & Yangtze,7.88189,1676
+244115,Shards of Infinity,7.53743,3003
+244191,Naga Raja,7.21675,1853
+244228,Reef,7.07429,7594
+244271,Dice Throne: Season Two – Battle Chest,8.14977,2787
+244331,Blue Lagoon,7.18428,3458
+244513,ICECOOL2,7.24793,1177
+244521,The Quacks of Quedlinburg,7.84165,28655
+244522,That's Pretty Clever!,7.62505,17062
+244536,Tiny Epic Zombies,7.00511,4217
+244608,Menara,7.45933,2522
+244654,Wildlands,7.30039,2731
+244711,Newton,7.60378,5061
+244918,Exit: The Game – The Mysterious Museum,7.20074,1892
+245352,Unlock!: Secret Adventures – A Noside Story,7.08617,1131
+245354,Unlock!: Secret Adventures – The Adventurers of Oz,7.4478,1271
+245422,Werewords Deluxe Edition,7.57693,1272
+245487,Orchard: A 9 card solitaire game,7.46805,1894
+245638,Coimbra,7.67206,9586
+245643,Luxor,7.20128,3525
+245654,Railroad Ink: Deep Blue Edition,7.24733,8641
+245655,The King's Dilemma,7.92779,2881
+245931,Neta-Tanka: Deluxe Edition,7.22987,1313
+245934,Carpe Diem,7.56794,5594
+245961,Fleet: The Dice Game,7.74186,2182
+246192,Gizmos,7.43078,8568
+246200,Piepmatz,7.14051,1738
+246663,NEOM,7.36156,1619
+246684,Smartphone Inc.,7.708,3378
+246761,Cahoots,7.18249,1718
+246784,Cryptid,7.50192,9057
+246900,Eclipse: Second Dawn for the Galaxy,8.67526,4996
+247236,Duelosaur Island,7.16193,2864
+247367,"Air, Land & Sea",7.54675,3210
+247763,Underwater Cities,8.10382,12467
+248005,Ganymede,7.26167,1183
+248065,Zombicide: Invader,7.90597,1838
+248125,Monumental,7.74196,1031
+248158,Thanos Rising: Avengers Infinity War,7.17291,2092
+248490,Atlantis Rising (Second Edition),7.77558,2309
+248562,Mage Knight: Ultimate Edition,8.94937,3877
+248861,Metro X,7.19916,1159
+248900,Ceylon,7.04243,1036
+249259,War Chest,7.95128,5347
+249381,The Estates,7.47664,2940
+249703,Gentes: Deluxified Edition,7.76838,1419
+249746,Nanty Narking,7.60592,1095
+249763,Claim 2,7.05079,1116
+250458,Gùgōng,7.50565,6929
+251219,Istanbul: Big Box,8.07422,2120
+251247,Barrage,8.22651,9161
+251412,On Tour,7.03031,3219
+251658,Sprawlopolis,7.45004,6110
+251678,Railroad Ink: Blazing Red Edition,7.17903,4855
+252153,Tang Garden,7.53778,2722
+252328,Star Wars: X-Wing (Second Edition),8.23292,2066
+252446,Key Flow,7.4127,1132
+252526,Pictomania (Second Edition),7.60556,1265
+252556,Bosk,7.00248,1373
+253214,Escape Tales: The Awakening,7.16647,2159
+253344,Cthulhu: Death May Die,8.1479,5654
+253499,A War of Whispers,7.44916,1955
+253608,18Chesapeake,7.86804,1059
+253635,Ragusa,7.02022,1410
+253684,Spring Meadow,7.11114,1349
+254018,Solenia,7.09352,2153
+254192,Harry Potter: Hogwarts Battle – Defence Against the Dark Arts,7.25207,1426
+254226,Unlock!: Exotic Adventures,7.40783,1448
+254386,Raccoon Tycoon,7.38654,2600
+254591,Heroes of Terrinoth,7.34751,1905
+254640,Just One,7.61389,15129
+254713,The Artemis Project,7.31487,1547
+255262,Agricola: All Creatures Big and Small – The Big Box,7.76643,1041
+255615,GoodCritters,7.06952,1028
+255664,The Binding of Isaac: Four Souls,7.16903,1706
+255668,Trickerion: Collector's Edition,8.85098,1354
+255674,Imhotep: The Duel,7.13186,2019
+255675,Exit: The Game – The Catacombs of Horror,7.41778,1345
+255692,New Frontiers,7.52847,2735
+255924,Snowdonia: Deluxe Master Set,8.16327,1414
+255984,Sleeping Gods,8.51042,2496
+256226,Azul: Stained Glass of Sintra,7.38697,10086
+256320,Fertility,7.19526,1212
+256382,Disney Villainous,7.05319,12613
+256570,Crown of Emara,7.46539,2764
+256589,Rallyman: GT,7.32144,2582
+256606,Spirits of the Wild,7.36742,1856
+256730,Pipeline,7.69123,3611
+256788,Detective Club,7.40563,2143
+256916,Concordia Venus,8.35187,3139
+256952,Zombie Kidz Evolution,7.81839,2756
+256960,Pax Pamir: Second Edition,8.35655,6383
+256999,Project: ELITE,8.09693,1291
+257499,Arkham Horror (Third Edition),7.76332,6142
+257501,KeyForge: Call of the Archons,7.2256,10033
+257518,Claustrophobia 1643,8.08251,1256
+257769,Walking in Burano,7.18117,1940
+258036,Between Two Castles of Mad King Ludwig,7.30634,4654
+258210,Blitzkrieg!: World War Two in 20 Minutes,7.69137,2606
+258444,Gingerbread House,7.02839,1945
+259081,Machi Koro: Legacy,7.05334,1594
+259374,Belratti,7.19366,1185
+260180,Project L,7.5596,2131
+260428,Pandemic: Fall of Rome,7.69312,4472
+260605,Camel Up (Second Edition),7.64763,5436
+260678,Stone Age: Anniversary,8.00253,1693
+261114,Men at Work,7.31461,2262
+262211,Cloudspire,8.26495,2025
+262215,Blackout: Hong Kong,7.48414,4466
+262543,Wavelength,7.45004,5975
+262712,Res Arcana,7.742,13578
+263918,Cartographers,7.71675,15948
+264052,Circadians: First Light,7.68918,1725
+264055,Draftosaurus,7.15931,7425
+264198,Warhammer Quest: Blackstone Fortress,7.93521,1138
+264220,Tainted Grail: The Fall of Avalon,8.27228,7837
+264241,Mandala,7.66264,3413
+264647,Age of Civilization,7.12816,1377
+264982,Coloma,7.40749,1539
+265188,Glen More II: Chronicles,7.99998,4862
+265402,In the Hall of the Mountain King,7.78187,2781
+265736,Tiny Towns,7.32242,12769
+266121,Unlock!: Heroic Adventures,7.72672,2371
+266164,Babylonia,7.71737,1402
+266192,Wingspan,8.09896,54404
+266219,Tiny Epic Zombies: Deluxe Edition,7.22225,1028
+266507,Clank!: Legacy – Acquisitions Incorporated,8.69604,4722
+266524,PARKS,7.81135,11907
+266810,Paladins of the West Kingdom,8.0328,10849
+266830,Q.E.,7.46773,2567
+267127,Aerion,7.47172,1239
+267319,Roam,7.42414,2236
+267367,Suburbia: Collector's Edition,8.14521,2409
+267813,Adventure Games: The Dungeon,7.0538,1865
+268586,6 nimmt! 25 Jahre,7.46248,1058
+268864,Undaunted: Normandy,7.84431,6069
+269144,Hadara,7.47335,4660
+269207,The Taverns of Tiefenthal,7.61641,8395
+269210,Twice as Clever!,7.4954,6027
+269385,The Lord of the Rings: Journeys in Middle-Earth,8.01336,10989
+269511,Cooper Island,7.67485,2731
+269595,Copenhagen,7.15811,2317
+269603,Minecraft: Builders & Biomes,7.06195,1517
+269752,Noctiluca,7.17145,1276
+269968,Exit: The Game – The Haunted Roller Coaster,7.20665,1172
+270109,Iwari,7.24351,1280
+270314,Ohanami,7.3618,2085
+270633,Aeon's End: The New Age,8.67759,1725
+270673,Silver & Gold,7.31064,5151
+270844,Imperial Settlers: Empires of the North,7.5679,4990
+270970,Century: A New World,7.43464,3501
+270971,Era: Medieval Age,7.24898,2629
+271055,Dwellings of Eldervale,8.32647,2972
+271088,Ishtar: Gardens of Babylon,7.10403,2125
+271319,Las Vegas Royale,7.46161,1135
+271320,The Castles of Burgundy,8.49373,4876
+271324,It's a Wonderful World,7.82287,9500
+271518,Disney Villainous: Wicked to the Core,7.65428,2780
+271869,Sushi Roll,7.12414,2751
+271896,Star Wars: Outer Rim,7.70023,7131
+272380,SHŌBU,7.61101,1078
+272427,Terramara,7.37138,1163
+272453,KeyForge: Age of Ascension,7.34887,1998
+272533,Kingdom Rush: Rift in Time,7.63796,1390
+272682,Expedition to Newdale,7.5086,1233
+272738,Jaws,7.24567,3911
+272739,Clinic: Deluxe Edition,7.75543,1530
+273330,Bloodborne: The Board Game,7.99815,1722
+273477,Obscurio,7.23009,2293
+274364,Watergate,7.92358,6644
+274637,"Unmatched: Battle of Legends, Volume One",7.94522,4228
+274638,Unmatched: Robin Hood vs. Bigfoot,8.13702,1788
+274841,Cóatl,7.20388,1344
+274960,Point Salad,7.28678,11243
+275467,Letter Jam,7.28131,3062
+275913,Bruxelles 1897,7.31056,1310
+276025,Maracaibo,8.21229,10399
+276042,Conspiracy: Abyss Universe,7.38319,1621
+276498,Paris: La Cité de la Lumière,7.42376,2289
+276830,Sanctum,7.15436,1596
+276894,Ticket to Ride: London,7.18254,2777
+277085,Love Letter,7.61532,3119
+277597,Fast Sloths,7.14677,1020
+277700,Merchants Cove,7.71284,1360
+278553,Silver,7.05479,1127
+279254,Ecos: First Continent,7.18288,2863
+279537,The Search for Planet X,8.1428,3063
+279613,Unlock!: Timeless Adventures,7.91781,1513
+280136,Paranormal Detectives,7.13987,1474
+280453,Masters of Renaissance: Lorenzo il Magnifico – The Card Game,7.24019,1218
+280480,Crystal Palace,7.60927,2394
+280794,Etherfields,7.99913,1526
+281194,Flick of Faith,7.48936,1275
+281259,The Isle of Cats,7.93233,10611
+281442,Trismegistus: The Ultimate Formula,7.65519,2497
+281466,Yedo: Deluxe Master Set,8.09835,1026
+281946,Aftermath,7.84908,1056
+282524,Horrified,7.79405,9262
+282954,Paris,7.34154,1550
+283155,Calico,7.79098,7850
+283294,Yukon Airways,7.45195,1334
+283355,Dune,8.08045,4554
+283393,Aquatica,7.409,2760
+283863,The Magnificent,7.62314,2168
+283864,Trails of Tucana,7.46755,2420
+283948,Marco Polo II: In the Service of the Khan,8.0932,4540
+284083,The Crew: The Quest for Planet Nine,7.97221,23819
+284108,Pictures,7.21278,1323
+284378,Kanban EV,8.62853,2791
+284435,Nova Luna,7.40753,4237
+284584,Troyes Dice,7.1963,1265
+284742,Honey Buzz,7.8564,1913
+284760,Disney Villainous: Evil Comes Prepared,7.67421,2510
+284777,Unmatched: Jurassic Park – InGen vs Raptors,8.21107,1095
+284818,Caylus 1303,7.59028,1810
+285192,Destinies,8.06631,2791
+285265,Rune Stones,7.27028,1354
+285774,Marvel Champions: The Card Game,8.20626,13558
+285967,Ankh: Gods of Egypt,7.97652,2977
+285984,Last Bastion,7.61244,2067
+286096,Tapestry,7.46019,13865
+286749,Hansa Teutonica: Big Box,8.43801,1566
+286751,Zombicide: 2nd Edition,8.1799,1087
+287084,Oriflamme,7.18762,2025
+287589,Red Outpost,7.0727,1241
+287954,Azul: Summer Pavilion,7.77819,9659
+288169,The Fox in the Forest Duet,7.19825,1807
+290236,Canvas,7.5359,3347
+290359,Undaunted: North Africa,7.92725,1594
+291457,Gloomhaven: Jaws of the Lion,8.6961,15062
+291508,Tiny Epic Dinosaurs,7.43074,1945
+291572,Oath: Chronicles of Empire and Exile,8.03897,2584
+291794,Dice Throne: Season One ReRolled,8.46758,1098
+293014,Nidavellir,7.71489,5604
+293141,King of Tokyo: Dark Edition,7.82352,2905
+293296,Splendor: Marvel,7.68071,1603
+293889,Fallout Shelter: The Board Game,7.30851,1669
+294484,Unmatched: Cobble & Fog,8.25578,2364
+294612,Unlock!: Epic Adventures,7.88504,1218
+295486,My City,7.82378,4291
+295947,Cascadia,8.04654,3686
+296100,Rococo: Deluxe Edition,8.30643,1568
+296151,Viscounts of the West Kingdom,7.99175,5211
+296237,Warp's Edge,7.9043,1050
+296912,Fort,7.2877,4689
+297030,Tekhenu: Obelisk of the Sun,7.87978,3532
+297486,Ride the Rails,7.29273,1122
+297562,Kemet: Blood and Sand,8.25245,1490
+297978,Mariposas,7.01463,2844
+298047,Marvel United,7.69318,4025
+298065,Santa Monica,7.39772,2298
+298069,Cubitos,7.62999,2724
+298371,Wild Space,7.40338,1110
+299047,Disney Villainous: Perfectly Wretched,7.83938,1625
+299169,Spicy,7.23924,1955
+299252,Here to Slay,7.08747,1725
+299960,Alma Mater,7.5626,1541
+300001,Renature,7.34424,1148
+300300,Chronicles of Crime: 1400,7.92038,1801
+300322,Hallertau,8.0866,2713
+300327,The Castles of Tuscany,7.35322,1903
+300442,Trekking the World,7.1188,1574
+300531,Paleo,7.84488,3726
+300753,Cross Clues,7.42747,1040
+300877,New York Zoo,7.238,3201
+301255,Whistle Mountain,7.7873,1523
+301716,Glasgow,7.25091,1011
+301767,Mysterium Park,7.33718,1698
+301880,Raiders of Scythia,7.94125,2261
+301919,Pandemic: Hot Zone – North America,7.13861,1177
+302336,Marvel Villainous: Infinite Power,7.0039,1057
+302388,Back to the Future: Back in Time,7.33538,1567
+302524,Super-Skill Pinball: 4-Cade,7.31673,1431
+302723,Forgotten Waters,8.06919,3137
+303057,Pan Am,7.6521,2627
+304285,Infinity Gauntlet: A Love Letter Game,7.12642,1640
+304420,Bonfire,7.86147,3255
+304783,Hadrian's Wall,8.10315,1512
+306040,Merv: The Heart of the Silk Road,7.71667,1983
+306481,Tawantinsuyu: The Inca Empire,7.64651,1445
+306735,Under Falling Skies,7.93574,4422
+307305,Bullet♥︎,7.76445,1027
+308765,Praga Caput Regni,8.12306,4040
+309630,Small World of Warcraft,7.53151,1491
+310873,Carnegie,7.74625,1027
+311193,Anno 1800,7.87445,2296
+312251,Curious Cargo,7.3562,1123
+312267,Star Wars: Unlock!,7.11695,1517
+312484,Lost Ruins of Arnak,8.10302,15366
+314040,Pandemic Legacy: Season 0,8.64327,3319
+314491,Meadow,7.90385,2035
+314503,Codex Naturalis,7.23371,1152
+316377,7 Wonders (Second Edition),8.10179,1828
+316546,Clever Cubed,7.65002,1227
+316554,Dune: Imperium,8.31354,13659
+316858,CloudAge,7.48537,1168
+317985,Beyond the Sun,8.0102,4465
+318084,Furnace,7.50084,2541
+318184,Imperium: Classics,7.87167,1728
+318553,Rajas of the Ganges: The Dice Charmers,7.61058,1268
+318977,MicroMacro: Crime City,7.75844,5760
+318983,Faiyum,7.6066,1058
+319966,The King Is Dead: Second Edition,7.83927,2394
+322708,Descent: Legends of the Dark,7.96497,1953
+324856,The Crew: Mission Deep Sea,8.44932,2181
+328871,Terraforming Mars: Ares Expedition,7.6739,3482
+329465,Red Rising,7.23889,3465

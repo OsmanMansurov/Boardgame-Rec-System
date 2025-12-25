@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand" href="#">BGG Recommendation System</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNav">
+	<ul class="navbar-nav">
+		<li class="nav-item">
+		<a class="nav-link" href="/home">Home</a>
+		</li>
+		<li class="nav-item active">
+		<a class="nav-link" href="/machine_learning">Machine Learning</a>
+		</li>
+        <li class="nav-item">
+		<a class="nav-link" href="/profile">Profile</a>
+		</li>
+	</ul>
+	</div>
+</nav>
+
+{% endblock %}
+
+{% block body %}
+<div class="container col-7 border bg-light rounded shadow flex-column align-items-center justify-content-center text-center mt-2">
+	<h2 class="mt-2">Content-Based System</h2>
+	<form method="POST", action="/machine_learning">
+		<input type="text" class="form-control" name="num_recs_content" id="num_recs_content" placeholder="Enter desired # of recommendations" value="{{ n_recommendations }}">
+		<button type="submit" class="btn btn-success">
+		Get Recommendations!
+		</button>
+	</form>
+	<table class="table table-bordered">
+		<tr>
+			<th>Name</th>
+			<th>Average Rating</th>
+			<th># of Ratings</th>
+			<th>Year Published</th>
+			<th>Complexity</th>
+		</tr>
+		{% for result in recommendations %}
+		<tr>
+			<th>{{ recommendations[result][0] }}</th>
+			<th>{{ recommendations[result][1] }}</th>
+			<th>{{ recommendations[result][2] }}</th>
+			<th>{{ recommendations[result][3] }}</th>
+			<th>{{ recommendations[result][5] }}</th>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
+<div class="container col-7 border bg-light rounded shadow flex-column align-items-center justify-content-center text-center mt-2">
+	<h2 class="mt-2">LLM-Based System</h2>
+	<form method="POST", action="/machine_learning">
+		<input type="text" class="form-control" name="num_recs_llm" id="num_recs_llm" placeholder="Enter desired # of recommendations" value="{{ n_recommendations_llm }}">
+		<button type="submit" class="btn btn-success">
+		Get Recommendations!
+		</button>
+	</form>
+	
+	<table class="table table-bordered">
+		<tr>
+			<th>Name</th>
+			<th>Average Rating</th>
+			<th># of Ratings</th>
+			<th>Year Published</th>
+			<th>Complexity</th>
+		</tr>
+		{% for result in llm_recommendations %}
+		<tr>
+			<th>{{ llm_recommendations[result][0] }}</th>
+			<th>{{ llm_recommendations[result][1] }}</th>
+			<th>{{ llm_recommendations[result][2] }}</th>
+			<th>{{ llm_recommendations[result][3] }}</th>
+			<th>{{ llm_recommendations[result][4] }}</th>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
+
+{% endblock %}

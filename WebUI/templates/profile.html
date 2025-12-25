@@ -1,0 +1,89 @@
+{% extends 'base.html'%}
+
+{% block head %}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<a class="navbar-brand" href="#">BGG Recommendation System</a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+	<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarNav">
+	<ul class="navbar-nav">
+		<li class="nav-item">
+		<a class="nav-link" href="/home">Home</a>
+		</li>
+		<li class="nav-item">
+		<a class="nav-link" href="/machine_learning">Machine Learning</a>
+		</li>
+        <li class="nav-item active">
+		<a class="nav-link" href="/profile">Profile</a>
+		</li>
+	</ul>
+	</div>
+</nav>
+
+{% endblock %}
+
+{% block body %}
+
+<div class="container col-7 border bg-light rounded shadow flex-column align-items-center justify-content-center text-center mt-2">
+	<h2 class="mt-2">Game Selection</h2>
+	<h5>Select your favorite board games in the section below!</h4>
+    <form method="POST", action="/profile">
+        <input type="text" class="form-control" name="search_field" id="search_field" placeholder="Enter board game name" value="{{ search_query }}">
+        <button type="submit" class="btn btn-primary mt-1">Search</button>
+    </form>
+	<br>
+	<!-- Table containing search query results -->
+	<table class="table table-bordered">
+		<tr>
+			<th>Name</th>
+			<th>Average Rating</th>
+			<th># of Ratings</th>
+			<th>Year Published</th>
+			<th></th>
+		</tr>
+		{% for result in search_results %}
+		<tr>
+			<th>{{ search_results[result][0] }}</th>
+			<th>{{ search_results[result][1] }}</th>
+			<th>{{ search_results[result][2] }}</th>
+			<th>{{ search_results[result][3] }}</th>
+			<th>
+				<form method="POST", action="/profile">
+					<button type="submit" name="action_add" value="{{ search_results[result][4] }}, {{ search_results[result][0] }}" class="btn btn-success">
+					Add
+					</button>
+				</form>
+			</th>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
+
+<div class="container col-7 border bg-light rounded shadow flex-column align-items-center justify-content-center text-center mt-2">
+	<h2 class="mt-2">Favorite Board Games</h2>
+	<table class="table table-bordered">
+		<tr>
+			<th>BGGId</th>
+			<th>Name</th>
+			<th style="width:15%"></th>
+		</tr>
+		{% for BGGId in user_games %}
+		<tr>
+			<th>{{ BGGId }}</th>
+			<th>{{ user_games[BGGId] }}</th>
+			<th>
+				<form method="POST", action="/profile">
+					<button type="submit" name="action_remove" value="{{ BGGId }}" class="btn btn-danger">
+					Remove
+					</button>
+				</form>
+			</th>
+		</tr>
+		{% endfor %}
+	</table>
+</div>
+
+
+{% endblock %}
